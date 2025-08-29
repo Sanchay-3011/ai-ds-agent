@@ -1,8 +1,30 @@
+# Core framework
 streamlit
+
+# Data handling
 pandas
 numpy
-scikit-learn
+
+# Visualization
 matplotlib
 seaborn
+
+# Machine Learning
+scikit-learn
+
+# Report generation
 reportlab
+
+# Environment variables
 python-dotenv
+
+# LangChain & Groq
+langchain
+langchain-groq
+
+# Hugging Face Hub (optional, but good to have)
+huggingface-hub
+
+# Extra (to avoid common issues)
+openpyxl   # for Excel file support
+pyyaml     # sometimes needed by langchain
