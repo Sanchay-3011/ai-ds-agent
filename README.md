@@ -4,6 +4,8 @@ emoji: 📊
 sdk: streamlit
 app_file: app.py
 pinned: false
+license: mit
+sdk_version: 1.49.1
 ---
 
 # 📊 AI Data Scientist Agent  
