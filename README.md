@@ -1,14 +1,15 @@
 ---
-title: Streamlit Template Space
+title: Ai Data Scientist Agent
 emoji: 🚀
 colorFrom: red
 colorTo: red
 sdk: docker
 app_port: 8501
 tags:
-  - streamlit
+- streamlit
 pinned: false
-short_description: Streamlit template space
+short_description: An interactive Streamlit-based app that acts as your **AI-po
+license: mit
 ---
 
 # Welcome to Streamlit!
