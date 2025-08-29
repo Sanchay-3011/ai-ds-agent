@@ -1,8 +1,7 @@
 streamlit
 pandas
+numpy
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
 reportlab
-python-dotenv
-groq
