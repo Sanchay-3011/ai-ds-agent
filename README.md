@@ -1,20 +1,27 @@
 ---
-title: Ai Data Scientist Agent
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: docker
-app_port: 8501
-tags:
-- streamlit
+title: AI Data Scientist Agent
+emoji: 📊
+sdk: streamlit
+app_file: app.py
 pinned: false
-short_description: An interactive Streamlit-based app that acts as your **AI-po
-license: mit
 ---
 
-# Welcome to Streamlit!
+# 📊 AI Data Scientist Agent  
 
-Edit `/src/streamlit_app.py` to customize this app to your heart's desire. :heart:
+This is an end-to-end AI-powered Data Scientist assistant built with **Streamlit**.  
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+### Features:
+- 📂 Upload & explore datasets  
+- 🧹 Data cleaning (missing values, duplicates, outliers)  
+- 📈 Data visualization (interactive charts & correlations)  
+- 🤖 Modeling & evaluation (auto ML with best model selection)  
+- 📝 Generate automated PDF reports  
+
+---
+
+## 🚀 How to Run Locally
+```bash
+git clone https://huggingface.co/spaces/Sanchay3011/ai-data-scientist-agent
+cd ai-data-scientist-agent
+pip install -r requirements.txt
+streamlit run app.py
