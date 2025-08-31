@@ -31,17 +31,6 @@ It helps you upload datasets, clean data, visualize insights, build ML models, a
 
 ---
 
-## 🖼️ Screenshots
-### Home Page
-![Home Page](assets/home.png)
-
-### Data Visualization
-![Visualization](assets/visualization.png)
-
-### Report Example
-![Report](assets/report.pdf)
-
----
 
 🛠️ Tech Stack
 
@@ -77,9 +66,14 @@ ReportLab
 
 ☁️ Cloud dataset storage
 
+---
+
+
 👩‍💻 Author
 
 Developed with ❤️ by Sanchay Roy
+
+--
 
 ⭐ Contribute
 
